@@ -31,7 +31,7 @@ Programming Languages: C#, Python, TypeScript
 
 Software: .NET, Angular, ASP.NET Core, Flask, Git, MySQL, Docker
 
-Operating Systems : Arch Linux, Ubuntu, Windows
+Operating Systems: Arch Linux, Ubuntu, Windows
 
 ## Capstone Sought
 
