@@ -9,7 +9,7 @@
 
 ### London Computer Systems - Software Developer Co-op
 
-*June 2026 - Present*
+*Jan 2026 - Present*
 
 - Contributed to the development of a large full-stack feature of our flagship product utilizing Angular and .NET
 - Refactored legacy backend and frontend code for readability and performance, applying modern framework patterns and improving shared reusable components
